@@ -27,6 +27,8 @@ Students frequently make mistakes while simplifying expressions during different
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python (SymPy) / Node.js (Math.js)
 - API-based symbolic computation
+## Google Technology Integration
+This project integrates the Google Gemini API to generate clear, human-readable explanations for simplified expressions and calculus results, helping students understand each transformation step rather than just viewing the final answer.
 
 ## Project Status
 Currently under development (Hackathon Project)
